@@ -19,7 +19,7 @@
 - 🌐 Fluent in English
 
 ### 💻 Stack
-![Pega](https://img.shields.io/badge/Pega-0057A7?style=flat&logo=pegasystems&logoColor=white)
+![Pega Platform](https://img.shields.io/badge/Pega-0057A7?style=flat&logo=pegasystems&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
