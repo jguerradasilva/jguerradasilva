@@ -3,7 +3,7 @@
 
 <!-- Profile Title -->
 <h1 align="center">
-  Hey there 👋, I'm [Your Name]
+  Hey there 👋, I'm Jerf
 </h1>
 
 <h3 align="center">
@@ -14,7 +14,7 @@
 
 <!-- Saitama GIF -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/fSHZIQPS7SsAAAAd/saitama-one-punch-man.gif" alt="Saitama" width="400"/>
+  <img src="saitama-one-punch-man.gif" alt="Saitama" width="400"/>
 </p>
 
 <br>
@@ -64,8 +64,8 @@ My expertise spans **Pega Constellation UI**, **Case Management**, **REST/SOAP i
 <br><br>
 
 <strong>Education:</strong><br>
-📚 Postgraduate in Front-end Engineering - FIAP (In Progress)<br>
-📚 MBA in Digital Solutions Architecture - Impacta (In Progress)<br>
+📚 Postgraduate in Front-end Engineering - FIAP<br>
+📚 MBA in Digital Solutions Architecture - Impacta<br>
 🎓 Bachelor's in Information Systems - Estácio de Sá<br>
 🎓 Technical Degree in Computer Science
 </p>
@@ -89,15 +89,15 @@ My expertise spans **Pega Constellation UI**, **Case Management**, **REST/SOAP i
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jguerradasilva&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu_usuario&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jguerradasilva&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jguerradasilva&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 <br>
@@ -106,17 +106,14 @@ My expertise spans **Pega Constellation UI**, **Case Management**, **REST/SOAP i
 <h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/jguerradasilva" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:seu.email@gmail.com">
+  <a href="jerf.guerra@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.instagram.com/seu_usuario" target="_blank">
+  <a href="https://www.instagram.com/jguerrasilva" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://open.spotify.com/user/seu_usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
 </p>
 
