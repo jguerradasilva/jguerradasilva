@@ -3,7 +3,7 @@
 # Hey 👋, I'm Jerf
 
 **Tech Lead & Pega Solutions Architect**  
-*Building scalable solutions with coffee and code ⚡*
+*Enterprise Solution Architect specializing in designing and leading scalable, regulated digital platforms for banking and insurance.⚡*
 
 </div>
 
