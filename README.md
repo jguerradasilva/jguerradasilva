@@ -12,7 +12,7 @@
 <td width="60%" valign="top">
 
 ### 🚀 Quick Facts
-- 🎯 **10 years** in IT | **4 years** Pega specialist
+- 🎯 **10 years** in IT | **6 years** Pega specialist
 - 🏦 Led projects at **Mercedes-Benz, Bradesco**
 - 🎓 **PCSSA, PCSA, AWS SAA**
 - 💻 Tech Lead crafting digital solutions
